@@ -119,5 +119,26 @@ Permite monitorear el estado físico de los puestos de estacionamiento en tiempo
 |  | [ OCUPADA ]   |  | [ LIBRE ]     |                                                              |
 |  | Placa: WXY12C |  | Tipo: Moto    |                                                              |
 |  +---------------+  +---------------+                                                              |
-+----------------------------------------------------------------------------------------------------+
 ```
+
+---
+
+## 3. Capturas Reales del Sistema en Ejecución
+
+A continuación se presentan las capturas obtenidas directamente durante la validación operativa en el navegador:
+
+### 3.1. Dashboard Principal y Matriz de Celdas en Tiempo Real
+![Dashboard Principal](assets/01-dashboard-principal.png)
+
+### 3.2. Formulario de Entrada - Búsqueda por Placa
+![Modal Entrada Inicial](assets/02-modal-entrada-vacio.png)
+
+### 3.3. Formulario de Entrada - Vehículo Validado y Celda Asignada
+![Modal Entrada Validada](assets/03-modal-entrada-validado.png)
+
+### 3.4. Formulario de Salida - Selección de Vehículo
+![Modal Salida Inicial](assets/04-modal-salida-vacio.png)
+
+### 3.5. Formulario de Salida - Resumen de Estadía y Liberación
+![Modal Salida Resumen](assets/05-modal-salida-resumen.png)
+

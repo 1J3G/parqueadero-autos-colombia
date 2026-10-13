@@ -5,6 +5,10 @@ Sistema integral de gestión operativa para parqueaderos por suscripción mensua
 
 ---
 
+![Dashboard Principal - Parqueadero Autos Colombia](docs/assets/01-dashboard-principal.png)
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 - **Backend:** Python 3.13 + [FastAPI](https://fastapi.tiangolo.com/) + Pydantic v2 + SQLAlchemy 2.0 + PyMySQL.
