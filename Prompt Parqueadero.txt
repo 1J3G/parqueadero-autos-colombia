@@ -1,0 +1,52 @@
+# Contexto del Proyecto: "Parqueadero Autos Colombia"
+Actúa como un equipo de Arquitectura de Software e Ingeniería Full-Stack experto en Google Antigravity. Estamos desarrollando la Iteración 1 de un sistema de gestión operativa para "Parqueadero Autos Colombia", un servicio de parqueadero por mensualidad.
+Esto es lo que se pide:
+El Parqueadero “Autos Colombia” parqueadero que presta el servicio de parqueadero por mensualidad necesita un desarrollo de software para la gestión de sus operaciones diarias que le permita, registrar las entradas y salidas de los vehículos, registrar usuarios, manejar las celdas, y registrar novedades ocurridas sobre determinado vehículo en el parqueadero y gestionar los pagos. Esto incluye el análisis de los siguientes requerimientos funcionales:
+Gestión de la entrada y salida de vehículos.
+Gestión de usuarios y gestión de celdas.
+Gestión de pagos
+
+## Stack Tecnológico sugerido (ajusta si usas otro)
+- Frontend: [Ej: React / Next.js / Tailwind CSS]
+- Backend: [Ej: Node.js con Express / Python con FastAPI]
+- Base de Datos: [Ej: PostgreSQL o SQLite para desarrollo]
+- Control de versiones: Git / GitHub
+
+---
+
+## Objetivos de la Iteración 1: Gestión de entrada y salida de vehículos
+
+Necesito que desarrolles y generes de forma ordenada, modular y documentada los siguientes puntos:
+
+1. **Requerimientos Funcionales y No Funcionales:**
+   - Lista detallada de requerimientos funcionales (RF) y no funcionales (RNF) específicos para la entrada, permanencia y salida de vehículos y gestión de mensualidades.
+
+2. **Historias de Usuario Asociadas:**
+   - Redactar las historias de usuario bajo formato estándar (Como [rol], quiero [acción], para [beneficio]) con sus respectivos criterios de aceptación (Given/When/Then).
+
+3. **Modelado de Datos (MER, MR y Modelo Físico):**
+   - Diagrama Entidad-Relación (MER).
+   - Modelo Relacional (MR).
+   - Script SQL del modelo físico (DDL) para la base de datos.
+
+4. **Diseño de Arquitectura y Diagramas (UML):**
+   - Especificación de la arquitectura del sistema.
+   - Instrucciones o estructura para los diagramas en StarUML:
+     - Casos de Uso.
+     - Diagrama de Clases.
+     - Diagrama de Paquetes.
+
+5. **Mockups de Interfaz:**
+   - Estructura y especificaciones textuales/visuales detalladas de las pantallas principales (Figma/UI) para las historias de usuario de entrada/salida y asignación de celdas.
+
+6. **Implementación de Código Fuente y Repositorio:**
+   - Estructura de carpetas limpia y modular.
+   - Código fuente funcional (backend + frontend básico o API funcional probada).
+   - Instrucciones para inicializar el proyecto, ejecutar las pruebas y conectarlo a un repositorio de GitHub.
+
+---
+
+## Instrucciones de Ejecución para Antigravity:
+- **No ejecutes todo de golpe.** Primero, preséntame el **Implementation Plan** y la **Task List** detallada para que la revise y apruebe.
+- Una vez validada la hoja de ruta, avanza paso a paso construyendo los archivos de manera limpia.
+- Deja comentarios claros en el código y un archivo `README.md` explicativo.
